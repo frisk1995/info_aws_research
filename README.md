@@ -1,4 +1,7 @@
-# AWS SAA調査
+# AWS SAA学習について
+1. blackbeltの一覧をまとめる
+1. 資料を読む  
+[https://d1.awsstatic.com/International/ja_JP/Whitepapers/AWS_Well-Architected_Framework_2018_JA_final.pdf]
 ## Black Belt 一覧
 ### EC2
 * [EC2][1]
