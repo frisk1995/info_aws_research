@@ -2,6 +2,8 @@
 1. blackbeltの一覧をまとめる
 1. 資料を読む  
 [https://d1.awsstatic.com/International/ja_JP/Whitepapers/AWS_Well-Architected_Framework_2018_JA_final.pdf]
+1. 参考書を買う(黒本)
+
 ## Black Belt 一覧
 ### EC2
 * [EC2][1]
